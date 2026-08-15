@@ -7,9 +7,9 @@ const store = {
   address:
     "39RC+CCM, Khabara Mandir Rd, Khabra, Muzaffarpur, Bihar 843113",
 
-  phone: "919304102477",
+  phone: "917384364163",
 
-  whatsapp: "919304102477",
+  whatsapp: "917384364163",
 
   mapsUrl:
     "https://maps.app.goo.gl/kQeosRgZojdbb9c58",
