@@ -88,9 +88,16 @@ function Cart({
 
               <div className="cart-item-info">
 
-                <span className="cart-icon">
-                  {item.image || "📦"}
-                </span>
+                <div className="cart-icon">
+                    {item.image ? (
+                      <img
+                        src={item.image}
+                        alt={item.name}
+                      />
+                    ) : (
+                      "📦"
+                    )}
+                  </div>
 
 
                 <div>
